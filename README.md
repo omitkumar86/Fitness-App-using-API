@@ -1,16 +1,8 @@
-# homework_35
+# Fitness-App-using-API
 
-A new Flutter project.
+Fitness App using API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Output
+![m1](https://user-images.githubusercontent.com/109650374/205672558-fe490f81-9cfe-4d6c-bfa0-03530c0b58e2.jpeg)
+![m2](https://user-images.githubusercontent.com/109650374/205672586-d3474e32-5ccb-47ac-9d49-5338d06a2f3c.jpeg)
+![m3](https://user-images.githubusercontent.com/109650374/205672600-2e9fab29-a49b-4089-9b0c-d2817ac7b90f.jpeg)
